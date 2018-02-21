@@ -9,6 +9,7 @@ Add this repository as **a submodule to your Unity project** repository into **`
 ```
 git submodule add -b master -f https://github.com/jgj/Unity.Library.eppz Assets/Plugins/eppz
 git submodule update --init --recursive --remote Assets/Plugins/eppz
+```
 
 ## Modules
 
