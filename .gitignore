@@ -3,3 +3,5 @@
 
 ### Ignore meta (Unity)
 *.meta
+
+.vscode
